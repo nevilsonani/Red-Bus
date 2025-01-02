@@ -50,14 +50,3 @@ It connects bus travellers with a network of over 2500 bus operators, across Ind
       * react-scripts
       * react-stripe-checkout
       
-      
-
-
- 
-
-
-    * Github : [kumarrohan2804](https://github.com/kumarrohan2804)
-
- * Archana Singh
-
-    * Github : [archana-sing](https://github.com/archana-sing)
